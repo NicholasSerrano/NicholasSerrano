@@ -37,8 +37,8 @@
   </p><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9b0fee2fa46ec8c9aad0b8f58b6f99b3e029ae4bf65a3be6f25433d72a069213/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43616e76612d2532333030433443432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d43616e7661266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/9b0fee2fa46ec8c9aad0b8f58b6f99b3e029ae4bf65a3be6f25433d72a069213/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43616e76612d2532333030433443432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d43616e7661266c6f676f436f6c6f723d7768697465" alt="Canva" data-canonical-src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&amp;logo=Canva&amp;logoColor=white" style="max-width: 100%;"></a><br><br></p><hr>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></font></font></p>
 <ul dir="auto">
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📨 </font></font><a href="mailto:cdeandresgil@gmail.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">serranosrcv@gmail.com</font></font></a></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👔 </font></font><a href="https://www.linkedin.com/in/nicholas-serrano-664b17219" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">My LinkedIn</font></font></a></li>
-</ul>
-<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">¡Gracias por visitar!</font></font></p>
+
+![Animated GIF](https://github.com/NicholasSerrano/NicholasSerrano/raw/main/Animation%20-%201714075003843%20(1).gif)
+
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></font></font></p>
 <hr>
